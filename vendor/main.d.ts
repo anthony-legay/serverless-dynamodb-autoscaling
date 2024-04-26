@@ -4,6 +4,7 @@ declare interface Capacity {
   indexOnly?: boolean
   write?: CapacityConfiguration
   read?: CapacityConfiguration
+  permissionsBoundary?: string
 }
 
 declare interface CapacityConfiguration {

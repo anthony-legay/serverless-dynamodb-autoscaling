@@ -28,10 +28,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sbstjn/serverless-dynamodb-autoscaling.git"
+    "url": "https://github.com/anthony-legay/serverless-dynamodb-autoscaling.git"
   },
   "bugs": {
-    "url": "https://github.com/sbstjn/serverless-dynamodb-autoscaling/issues"
+    "url": "https://github.com/anthony-legay/serverless-dynamodb-autoscaling/issues"
   },
   "devDependencies": {
     "@types/jest": "^20.0.5",
